@@ -1,1 +1,1 @@
-# UZ
+Rešitve nalog pri predmetu Umetno zaznavanje (Machine Perception)
